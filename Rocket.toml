@@ -1,0 +1,2 @@
+[default.databases.discord]
+url = "postgresql://postgres:123456@localhost:55433/discord"
