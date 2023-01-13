@@ -1,5 +1,6 @@
 #[macro_use] extern crate rocket;
 pub mod postgres;
+pub mod server;
 
 #[launch]
 fn rocket() -> _ {
